@@ -736,628 +736,630 @@
 
      > example: The light implies that there is somebody in the house.
 
+142. luxury(n,adj)
+
+     > meaning:a thing that is expensive and enjoyable but not essential.
+
+     > example:This luxury car looks so expensive.
+
+142. reach(v)
+
+     > meaning:to arrive at the place that you have been travelling to
+
+     > example:The baby boy is trying to reach for the red ball.
+
+142. hunting(n)
+
+     > meaning:the pursuit and killing or capture of wild animals regarded as a sport.
+
+     > example:He went hunting with his hound.
+
+
+142. clinic(n)
+
+     > meaning: a building or part of a hospital where people can go for special medical treatment or advice.
+
+     > example:Patients are waiting to see a doctor in the clinic.
+
+142. particularly(adv)
+
+     > meaning:particular + ly
+
+     > example:This gua particularly like eating meat.
+
+142. medicine(n)
+
+     > meaning:
+
+     > example: He was given medicine from the doctor to cure his disease.
+
+142. composer(n)
+
+     > meaning: a person who writes music,especially classical music.
+
+     > example:The composer has difficulty writing this piece.
+
+142. individual(adj,n)
+
+     > meaning:a person considered separately ranther than as part of group.
+
+     > example:The teacher is the individual person not wearing a uniform in this graduation photo.
+
+142. precisely(adv)
+
+     > meaning:precise + ly
+
+     > example:This device can precisely meansure the diameter of the bolt.
+
+142. stomach(n)
+
+     > meaning:the organ inside the body where food goes when you swallow it;
+
+     > example:We should eat healthy food if we want a strong stomach.
+
+142. uncertainty(n)
+
+     > meaning:the state of being uncertain;someting that you can't be sure about;
+
+     > example:Investing in company stocks will always come with some kind of uncertainty.
+
+142. nest(n)
+
+     > meaning:
+
+     > example:Most birds lay their eggs in their nests.
+
+142. roughly(adv)
+
+     > meaning:approximately but not exactly.
+
+     > example: Pi roughly equals 3.14.
+
+142. essential(n,adj)
+
+     > meaning:completely necessary.
+
+     > example:Water,food and air are essential to life.
+
+
+142. ankle(n)
+
+     > meaning:the joint connecting the foot to the leg.
+
+     > example:An injured ankele should be wrapped ina a bandage.
+
+142. range(n)
+
+     > meaning: the limits within which something varies.
+
+     > example:People use different facial expressions to show a range of emotions.
+
 142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
+142. ()
 
      > meaning:
 
      > example:
 
-142. shortage()
-
-     > meaning:
-
-     > example:
-
-142. shortage()
-
-     > meaning:
-
-     > example:
-
-142. shortage()
-
-     > meaning:
-
-     > example:
-
-142. shortage()
-
-     > meaning:
-
-     > example:
-
-142. shortage()
-
-     > meaning:
-
-     > example:
-
-142. shortage()
-
-     > meaning:
-
-     > example:
-
-142. shortage()
-
-     > meaning:
-
-     > example:
-
-142. shortage()
-
-     > meaning:
-
-     > example:
-
-142. shortage()
-
-     > meaning:
-
-     > example:
-
-142. shortage()
-
-     > meaning:
-
-     > example:
-
-142. shortage()
-
-     > meaning:
-
-     > example:
-
-142. shortage()
-
-     > meaning:
-
-     > example:
-
-142. shortage()
-
-     > meaning:
-
-     > example:
-
-142. shortage()
-
-     > meaning:
-
-     > example:
-
-142. shortage()
-
-     > meaning:
-
-     > example:
-
-142. shortage()
-
-     > meaning:
-
-     > example:
-
-142. shortage
+142. 
      > meaning:
      > example
-142. shortage
+142. 
      > meaning:
      > example
-142. shortage
+142. 
      > meaning:
      > example
-142. shortage
+142. 
      > meaning:
      > example
-142. shortage
+142. 
      > meaning:
      > example
-142. shortage
+142. 
      > meaning:
      > example
      
